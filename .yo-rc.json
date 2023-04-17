@@ -1,0 +1,15 @@
+{
+  "generator-pcf": {
+    "promptValues": {
+      "controlNamespace": "BlueFort",
+      "publisherPrefix": "mtx",
+      "publisherName": "Yuri"
+    },
+    "controlNamespace": "BlueFort",
+    "controlName": "ReactSelect",
+    "controlTemplate": "Field",
+    "npmPackage": 1,
+    "publisherPrefix": "mtx",
+    "publisherName": "Yuri"
+  }
+}
